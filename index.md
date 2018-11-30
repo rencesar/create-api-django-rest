@@ -177,3 +177,35 @@ click nos links e sera redirecinado para as RFCs
 <img class="plain" width=70% src={{ "/images/letscode.gif" | prepend: site.baseurl }}>
 
 </script></section>
+
+<section data-markdown><script type="text/template">
+
+# Set up
+
+1. Clone repositorio: `https://github.com/rencesar/supermarket-djangoapi-tutorial`
+2. Siga os passos do `README.MD`
+3. As próximas instruções serão dadas na apresentação
+
+</script></section>
+
+<section data-markdown><script type="text/template">
+
+## Referencias e materiais extras
+
+* https://www.django-rest-framework.org/
+* https://blog.restcase.com/restful-api-authentication-basics/
+* https://tableless.com.br/entendendo-tokens-jwt/
+* https://testdriven.io/dockerizing-django-with-postgres-gunicorn-and-nginx
+* https://www.getpostman.com/
+* https://medium.com/@marcosrabaioli/django-rest-framework-e-django-oauth-toolkit-c71f8920db08
+
+</script></section>
+<section data-markdown><script type="text/template">
+
+## Renato César
+
+[Github](https://github.com/rencesar)
+
+[LinkedIn](https://linkedin.com/in/renatocesarlira/)
+
+</script></section>
